@@ -1,0 +1,6 @@
+model,threshold_role,threshold,selection_data,used_for_saved_predictions
+Targeted CatBoost,default,0.5,standard probability cut-off,False
+Targeted CatBoost,official,0.35,training balanced precision-recall threshold,True
+Targeted CatBoost,recall sensitivity,0.26,training Youden index,False
+Targeted CatBoost,balanced precision-recall,0.35,training threshold balancing precision and recall,True
+Targeted CatBoost,exploratory,0.34,held-out F1 sweep,False

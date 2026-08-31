@@ -1,0 +1,6 @@
+model,threshold_role,threshold,selection_data,used_for_saved_predictions
+Targeted LightGBM,default,0.5,standard probability cut-off,False
+Targeted LightGBM,official,0.39,training balanced precision-recall threshold,True
+Targeted LightGBM,recall sensitivity,0.29,training Youden index,False
+Targeted LightGBM,balanced precision-recall,0.39,training threshold balancing precision and recall,True
+Targeted LightGBM,exploratory,0.35,held-out F1 sweep,False
