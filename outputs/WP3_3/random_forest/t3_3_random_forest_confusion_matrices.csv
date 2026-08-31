@@ -1,0 +1,6 @@
+model,threshold,true_negatives,false_positives,false_negatives,true_positives
+Random Forest default threshold,0.5,34899,2953,5191,4128
+Random Forest selected Youden threshold,0.42000000000000004,32685,5167,4246,5073
+Random Forest balanced precision-recall threshold,0.51,35098,2754,5286,4033
+Random Forest held-out F1 threshold,0.29,24912,12940,2324,6995
+Random Forest recall-oriented threshold,0.3,25734,12118,2483,6836
