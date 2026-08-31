@@ -1,5 +1,0 @@
-split,admissions,admissions_with_sequence,coverage_percent,sequence_source
-training_model,162622,24843,15.28,rich_hourly_clinical_sequence
-validation,28698,4349,15.15,rich_hourly_clinical_sequence
-full_training,191320,29192,15.26,rich_hourly_clinical_sequence
-test,47171,7302,15.48,rich_hourly_clinical_sequence
