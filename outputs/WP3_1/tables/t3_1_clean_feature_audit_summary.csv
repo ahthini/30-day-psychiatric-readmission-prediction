@@ -1,0 +1,7 @@
+check,value
+Original processed features,1688
+Clean processed features,1682
+Removed processed features,6
+Training admissions,191320
+Test admissions,47171
+Missing requested clean-removal features,4

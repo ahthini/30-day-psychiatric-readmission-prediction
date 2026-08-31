@@ -1,0 +1,17 @@
+check,value
+prediction_context,full_record_discharge_time_benchmark
+unit_of_prediction,admission
+split_level,patient_level_group_split
+train_rows,191320
+test_rows,47171
+train_patients,86340
+test_patients,21586
+patient_overlap_between_train_test,0
+target_column,readmitted_30d
+train_readmission_rate,0.1988
+test_readmission_rate,0.1976
+candidate_predictor_columns,1435
+processed_predictor_columns,1688
+secondary_outcome_predictor_overlap,
+future_timing_predictor_overlap,
+test_set_role,held_out_final_reporting_only
