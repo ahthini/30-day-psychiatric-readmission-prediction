@@ -1,0 +1,8 @@
+finding,evidence,interpretation,report_use
+overall final-model subgroup baseline,"overall PR-AUC 0.596, recall 0.535, precision 0.526",the subgroup notebook uses the final saved predictions as the reference model,use as the anchor before reporting subgroup differences
+strongest detectable subgroup,discharged_to_psych_facility_flag reached PR-AUC 0.976 across 571 admissions,performance is strongest when psychiatric acuity or discharge-pathway risk is explicit,use to explain where the model separates risk most clearly
+older-patient weakness,age_70plus_x_no_prior_psych_admission had PR-AUC 0.319 and recall 0.142,older and medically complex patients appear less separable using the structured predictors,use as the main subgroup limitation
+false positives often carry delayed risk,49.6% of 30-day false positives readmitted by 365 days,some apparent 30-day errors may reflect longer-term psychiatric instability,use to contextualise false positives and the 30-day window
+largest subgroup calibration gap,home_discharge_without_discharge_planning_order_flag had mean predicted risk 0.337 versus observed rate 0.220,the model overestimates risk in this subgroup,use for calibration and fairness discussion
+false-positive enrichment,previous_psych_admissions_365d_high had false-positive enrichment ratio 3.93,false positives cluster around prior-utilisation markers,use in the error analysis subsection
+false-negative enrichment,protective_aftercare_present_flag had false-negative enrichment ratio 1.15,false negatives cluster around pathway or less overt risk groups,use in the error analysis subsection
