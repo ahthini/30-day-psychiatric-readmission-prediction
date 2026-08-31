@@ -1,0 +1,5 @@
+model,threshold,true_negatives,false_positives,false_negatives,true_positives
+Reference baseline,0.5,37852,0,9319,0
+Logistic regression default threshold,0.5,28949,8903,3332,5987
+Logistic regression selected threshold,0.5,28949,8903,3332,5987
+Logistic regression balanced precision-recall threshold,0.61,33323,4529,4583,4736

@@ -1,0 +1,2 @@
+selected_C,training_roc_auc,test_roc_auc,training_pr_auc_average_precision,test_pr_auc_average_precision,test_brier_score
+0.01,0.7903600195938092,0.7798677885371819,0.5674118436209188,0.5528383450281691,0.18016407907042936
