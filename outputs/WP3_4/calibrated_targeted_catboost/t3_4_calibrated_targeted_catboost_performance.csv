@@ -1,0 +1,6 @@
+model,threshold_role,threshold,accuracy,balanced_accuracy,precision,recall_sensitivity,specificity,f1_score,roc_auc,pr_auc_average_precision,brier_score,true_negatives,false_positives,false_negatives,true_positives,training_time_seconds,train_inference_time_seconds,test_inference_time_seconds,test_inference_time_per_admission_ms
+Calibrated Targeted CatBoost default threshold,default,0.5,0.8405,0.6467,0.7094,0.3263,0.9671,0.447,0.79,0.5785,0.1211,36606,1246,6278,3041,28.5832,0.8627,0.2353,0.005
+Calibrated Targeted CatBoost official balanced precision-recall threshold,official,0.25,0.8136,0.6991,0.5292,0.5099,0.8883,0.5194,0.79,0.5785,0.1211,33624,4228,4567,4752,28.5832,0.8627,0.2353,0.005
+Calibrated Targeted CatBoost validation Youden threshold,recall sensitivity,0.18,0.7685,0.7104,0.4386,0.6143,0.8064,0.5118,0.79,0.5785,0.1211,30525,7327,3594,5725,28.5832,0.8627,0.2353,0.005
+Calibrated Targeted CatBoost balanced precision-recall threshold,balanced precision-recall,0.25,0.8136,0.6991,0.5292,0.5099,0.8883,0.5194,0.79,0.5785,0.1211,33624,4228,4567,4752,28.5832,0.8627,0.2353,0.005
+Calibrated Targeted CatBoost exploratory held-out F1 threshold,exploratory,0.25,0.8136,0.6991,0.5292,0.5099,0.8883,0.5194,0.79,0.5785,0.1211,33624,4228,4567,4752,28.5832,0.8627,0.2353,0.005
