@@ -1,4 +1,4 @@
-# 30-Day Psychiatrically Coded Readmission Prediction
+# 30-Day Psychiatric Readmission Prediction
 
 This repository contains the notebook pipeline for an MSc dissertation project predicting 30-day psychiatrically coded hospital readmission from structured MIMIC-IV electronic health record data.
 
