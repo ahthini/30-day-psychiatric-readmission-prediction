@@ -1,9 +1,0 @@
-rapid trial complete
-source matrix: clean_feature_audit
-processed features tested: 1618
-best explained validation-screen model: Targeted LightGBM - lgbm_127_lr0023_500trees
-best explained validation PR-AUC: 0.6015
-best refit test PR-AUC: 0.5958
-best refit test ROC-AUC: 0.8006
-feature list for WP3.1: /scratch/DissProject/outputs/WP3_rapid_trial/tables/rapid_trial_rebuilt_reduced_feature_names.xlsx
-rerun WP3.1 rebuild cells to create the refreshed shap_guided_reduced_feature_set matrices

@@ -1,6 +1,0 @@
-model,threshold_role,threshold,accuracy,balanced_accuracy,precision,recall_sensitivity,specificity,f1_score,roc_auc,pr_auc_average_precision,brier_score,true_negatives,false_positives,false_negatives,true_positives,training_time_seconds,train_inference_time_seconds,test_inference_time_seconds,test_inference_time_per_admission_ms
-LightGBM default threshold,default,0.5,0.7784,0.7185,0.4552,0.6196,0.8174,0.5248,0.7997,0.592,0.1595,30942,6910,3545,5774,54.9898,0.5869,0.1461,0.0031
-LightGBM official balanced precision-recall threshold,official,0.6,0.8204,0.7017,0.5495,0.5054,0.898,0.5266,0.7997,0.592,0.1595,33991,3861,4609,4710,54.9898,0.5869,0.1461,0.0031
-LightGBM training Youden threshold,recall sensitivity,0.45,0.7466,0.7207,0.4138,0.6779,0.7636,0.5139,0.7997,0.592,0.1595,28903,8949,3002,6317,54.9898,0.5869,0.1461,0.0031
-LightGBM balanced precision-recall threshold,balanced precision-recall,0.6,0.8204,0.7017,0.5495,0.5054,0.898,0.5266,0.7997,0.592,0.1595,33991,3861,4609,4710,54.9898,0.5869,0.1461,0.0031
-LightGBM exploratory held-out F1 threshold,exploratory,0.55,0.8025,0.7113,0.5002,0.5605,0.8621,0.5286,0.7997,0.592,0.1595,32633,5219,4096,5223,54.9898,0.5869,0.1461,0.0031

@@ -1,6 +1,0 @@
-model,threshold_role,threshold,true_negatives,false_positives,false_negatives,true_positives
-Targeted XGBoost default threshold,default,0.5,36616,1236,6161,3158
-Targeted XGBoost official balanced precision-recall threshold,official,0.31,33512,4340,4396,4923
-Targeted XGBoost training Youden threshold,recall sensitivity,0.23,29710,8142,3227,6092
-Targeted XGBoost balanced precision-recall threshold,balanced precision-recall,0.31,33512,4340,4396,4923
-Targeted XGBoost exploratory held-out F1 threshold,exploratory,0.31,33512,4340,4396,4923

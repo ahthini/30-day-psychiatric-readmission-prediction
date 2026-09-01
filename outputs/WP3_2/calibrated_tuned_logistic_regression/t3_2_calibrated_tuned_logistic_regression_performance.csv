@@ -1,2 +1,0 @@
-model,threshold,accuracy,balanced_accuracy,precision,recall_sensitivity,specificity,f1_score,roc_auc,pr_auc_average_precision,brier_score,true_negatives,false_positives,false_negatives,true_positives,training_time_seconds,train_inference_time_seconds,test_inference_time_seconds,test_inference_time_per_admission_ms
-Calibrated tuned logistic regression,0.5,0.8371,0.6261,0.7313,0.2774,0.9749,0.4022,0.7797,0.5528,0.1235,36902,950,6734,2585,73.129,0.47,0.1202,0.0025

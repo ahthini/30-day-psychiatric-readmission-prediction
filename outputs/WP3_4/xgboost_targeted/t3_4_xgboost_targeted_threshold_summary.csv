@@ -1,6 +1,0 @@
-model,threshold_role,threshold,selection_data,used_for_saved_predictions
-Targeted XGBoost,default,0.5,standard probability cut-off,False
-Targeted XGBoost,official,0.31,training balanced precision-recall threshold,True
-Targeted XGBoost,recall sensitivity,0.23,training Youden index,False
-Targeted XGBoost,balanced precision-recall,0.31,training threshold balancing precision and recall,True
-Targeted XGBoost,exploratory,0.31,held-out F1 sweep,False

@@ -1,4 +1,0 @@
-model,threshold,true_negatives,false_positives,false_negatives,true_positives
-Tuned logistic regression default threshold,0.5,29030,8822,3369,5950
-Tuned logistic regression selected threshold,0.49,28568,9284,3238,6081
-Tuned logistic regression balanced precision-recall threshold,0.61,33374,4478,4654,4665

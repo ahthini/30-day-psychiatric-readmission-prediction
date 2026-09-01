@@ -1,3 +1,0 @@
-model,training_roc_auc,test_roc_auc,roc_auc_gap,training_pr_auc_average_precision,test_pr_auc_average_precision,pr_auc_gap,test_brier_score
-Main tuned Random Forest,0.9785,0.7896,0.1889,0.9063,0.5806,0.3257,0.1354
-Regularised Random Forest,0.9159,0.789,0.1269,0.7583,0.5798,0.1785,0.1521

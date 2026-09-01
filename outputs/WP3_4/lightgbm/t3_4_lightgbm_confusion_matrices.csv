@@ -1,6 +1,0 @@
-model,threshold_role,threshold,true_negatives,false_positives,false_negatives,true_positives
-LightGBM default threshold,default,0.5,30942,6910,3545,5774
-LightGBM official balanced precision-recall threshold,official,0.6,33991,3861,4609,4710
-LightGBM training Youden threshold,recall sensitivity,0.45,28903,8949,3002,6317
-LightGBM balanced precision-recall threshold,balanced precision-recall,0.6,33991,3861,4609,4710
-LightGBM exploratory held-out F1 threshold,exploratory,0.55,32633,5219,4096,5223

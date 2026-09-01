@@ -1,3 +1,0 @@
-matrix_set,original_training_features,reduced_training_features,removed_processed_features,training_rows,test_rows,training_nonzero_values,test_nonzero_values
-clean_feature_audit,1688,1618,70,191320,47171,262682360,64765783
-runtime_trimmed_feature_audit,1688,1588,100,191320,47171,262681562,64765573

@@ -1,2 +1,0 @@
-prediction_source_path,prediction_source_label,primary_threshold,test_admissions,overall_readmission_rate,subgroup_definitions,workbook_path
-/Users/ahthini/Desktop/DissProject/outputs/WP3_6/csv_tables/t3_6_probability_ensemble_predictions.csv,ensemble,0.38,47171,0.1975578215428971,88,/Users/ahthini/Desktop/DissProject/outputs/WP3_7/t3_7_subgroup_analysis_tables.xlsx

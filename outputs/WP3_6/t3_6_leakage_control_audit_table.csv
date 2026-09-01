@@ -1,7 +1,0 @@
-leakage_or_bias_risk,control,evidence_table,residual_risk
-same patient appearing in train and test,patient-level split with overlap audit,wp3.1 modelling preparation audit,low if patient overlap remains zero
-future readmission information entering predictors,features are derived from index admission and prior history only,wp2.3 engineered dataset and wp3.1 feature audit,depends on accurate exclusion of future admissions
-post-discharge variables used at prediction time,prediction context is at discharge using data available by discharge,wp3.6 model run provenance,late discharge fields are valid only for discharge-time prediction
-feature-selection evidence overfitting,primary reduced matrix is compared against full and audited matrices as sensitivity,reduced feature sensitivity tables,reduced set should be described as development-informed
-threshold chosen to favour held-out results,threshold families are reported separately from ranking metrics,threshold tradeoff and final threshold recommendation tables,operating threshold should be interpreted as cohort-specific
-unavailable social and outpatient determinants,structured-data limitation is documented,limitations and feature availability review,important unobserved drivers may cap predictive performance

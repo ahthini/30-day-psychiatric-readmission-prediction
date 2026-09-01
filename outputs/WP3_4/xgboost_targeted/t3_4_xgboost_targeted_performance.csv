@@ -1,6 +1,0 @@
-model,threshold_role,threshold,accuracy,balanced_accuracy,precision,recall_sensitivity,specificity,f1_score,roc_auc,pr_auc_average_precision,brier_score,true_negatives,false_positives,false_negatives,true_positives,training_time_seconds,train_inference_time_seconds,test_inference_time_seconds,test_inference_time_per_admission_ms
-Targeted XGBoost default threshold,default,0.5,0.8432,0.6531,0.7187,0.3389,0.9673,0.4606,0.7988,0.5933,0.1185,36616,1236,6161,3158,253.0198,0.299,0.0709,0.0015
-Targeted XGBoost official balanced precision-recall threshold,official,0.31,0.8148,0.7068,0.5315,0.5283,0.8853,0.5299,0.7988,0.5933,0.1185,33512,4340,4396,4923,253.0198,0.299,0.0709,0.0015
-Targeted XGBoost training Youden threshold,recall sensitivity,0.23,0.759,0.7193,0.428,0.6537,0.7849,0.5173,0.7988,0.5933,0.1185,29710,8142,3227,6092,253.0198,0.299,0.0709,0.0015
-Targeted XGBoost balanced precision-recall threshold,balanced precision-recall,0.31,0.8148,0.7068,0.5315,0.5283,0.8853,0.5299,0.7988,0.5933,0.1185,33512,4340,4396,4923,253.0198,0.299,0.0709,0.0015
-Targeted XGBoost exploratory held-out F1 threshold,exploratory,0.31,0.8148,0.7068,0.5315,0.5283,0.8853,0.5299,0.7988,0.5933,0.1185,33512,4340,4396,4923,253.0198,0.299,0.0709,0.0015

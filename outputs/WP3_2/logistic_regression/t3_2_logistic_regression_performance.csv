@@ -1,6 +1,0 @@
-model,threshold,accuracy,balanced_accuracy,precision,recall_sensitivity,specificity,f1_score,roc_auc,pr_auc_average_precision,brier_score,true_negatives,false_positives,false_negatives,true_positives,training_time_seconds,train_inference_time_seconds,test_inference_time_seconds,test_inference_time_per_admission_ms
-Reference baseline,0.5,0.8024,0.5,0.0,0.0,1.0,0.0,0.5,0.1976,0.1585,37852,0,9319,0,0.0114,0.0019,0.0004,0.0
-Logistic regression,0.5,0.7406,0.7036,0.4021,0.6425,0.7648,0.4946,0.7799,0.5527,0.1803,28949,8903,3332,5987,93.9351,0.1583,0.0396,0.0008
-Logistic regression,0.57,0.7863,0.6991,0.4657,0.5549,0.8433,0.5064,0.7799,0.5527,0.1803,31919,5933,4148,5171,93.9351,0.1583,0.0396,0.0008
-Logistic regression,0.5,0.7406,0.7036,0.4021,0.6425,0.7648,0.4946,0.7799,0.5527,0.1803,28949,8903,3332,5987,93.9351,0.1583,0.0396,0.0008
-Logistic regression balanced precision-recall threshold,0.61,0.8068,0.6943,0.5112,0.5082,0.8803,0.5097,0.7799,0.5527,0.1803,33323,4529,4583,4736,93.9351,0.1583,0.0396,0.0008

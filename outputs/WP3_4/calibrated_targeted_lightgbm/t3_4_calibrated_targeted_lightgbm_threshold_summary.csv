@@ -1,6 +1,0 @@
-model,threshold_role,threshold,selection_data,used_for_saved_predictions
-Calibrated Targeted LightGBM,default,0.5,standard probability cut-off,False
-Calibrated Targeted LightGBM,official,0.28,validation F1 threshold after sigmoid calibration,True
-Calibrated Targeted LightGBM,recall sensitivity,0.25,validation Youden index after sigmoid calibration,False
-Calibrated Targeted LightGBM,balanced precision-recall,0.28,validation threshold balancing precision and recall,True
-Calibrated Targeted LightGBM,exploratory,0.25,held-out F1 sweep,False

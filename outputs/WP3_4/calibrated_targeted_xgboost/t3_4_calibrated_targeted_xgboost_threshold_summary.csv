@@ -1,6 +1,0 @@
-model,threshold_role,threshold,selection_data,used_for_saved_predictions
-Calibrated Targeted XGBoost,default,0.5,standard probability cut-off,False
-Calibrated Targeted XGBoost,official,0.25,validation F1 threshold after sigmoid calibration,True
-Calibrated Targeted XGBoost,recall sensitivity,0.16,validation Youden index after sigmoid calibration,False
-Calibrated Targeted XGBoost,balanced precision-recall,0.25,validation threshold balancing precision and recall,True
-Calibrated Targeted XGBoost,exploratory,0.24,held-out F1 sweep,False

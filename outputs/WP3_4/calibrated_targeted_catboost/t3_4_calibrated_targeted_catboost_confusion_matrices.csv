@@ -1,5 +1,0 @@
-model,threshold_role,threshold,true_negatives,false_positives,false_negatives,true_positives
-Calibrated Targeted CatBoost default threshold,default,0.5,36606,1246,6278,3041
-Calibrated Targeted CatBoost official validation F1 threshold,official,0.25,33624,4228,4567,4752
-Calibrated Targeted CatBoost validation Youden threshold,recall sensitivity,0.18,30525,7327,3594,5725
-Calibrated Targeted CatBoost exploratory held-out F1 threshold,exploratory,0.25,33624,4228,4567,4752
